@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "781417977778",
+    "project_id": "course-assign",
+    "storage_bucket": "course-assign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781417977778:android:174f02da3ed3cf74def6ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.myassign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781417977778-sg8vaagtqe6d3uvdepu6v8l18f2iud65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROfX3_sE61QdTJJKPFc8DlJqo4uruWO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781417977778-sg8vaagtqe6d3uvdepu6v8l18f2iud65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781417977778-hfm8gnurr67e8m44uin26rfft8l4rvij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.myassign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
